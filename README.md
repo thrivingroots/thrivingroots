@@ -5,7 +5,7 @@
 > 고객의 요구사항을 비즈니스 프로세스 관점에서 이해하고 이를 견고한 로직으로 해결하는 SAP 인재를 꿈꾸고 있습니다.
 
 
-**이력서 사이트** → https://thrivingroots.github.io
+**포트폴리오 사이트** → https://thrivingroots.github.io
 
 
 
