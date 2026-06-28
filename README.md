@@ -58,6 +58,7 @@ MM 모듈 기반의 풀스택 기업용 애플리케이션 개발 프로젝트
 |------|----------|----------|
 | SAP Certified - Backend Developer - ABAP Cloud | SAP | 2026 |
 | SAP Certified - SAP S/4HANA Cloud Private Edition, Financial Accounting | SAP | 2026 |
+| SAP Certified - SAP S/4HANA Cloud Private Edition, Management Accounting | SAP | 2026 |
 | SAP Certified - SAP Fiori Application Developer | SAP | 2026 |
 | 정보처리기사 | 한국산업인력공단 | 2024 |
 | SQLD (SQL 개발자) | 한국데이터산업진흥원 | 2026 |
